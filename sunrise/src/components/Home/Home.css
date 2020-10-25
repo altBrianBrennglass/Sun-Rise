@@ -1,0 +1,32 @@
+.YourInvestments{
+    
+}
+.yourStocksContainer{
+    font-family: sans-serif;
+}
+.yourStocksTable{
+    height: 500px;
+    overflow-y: scroll;
+
+}
+.yourStocksTableHead th{
+    width: 100px;
+} 
+.YourStockTableRow{
+    font-size: 1.5em;
+}
+.YourInvestments{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 10px;
+}
+.YourInvestmentsTitle{
+    font-family: sans-serif;
+    font-size: 2.1em;
+}
+.resources {
+    display: flex;
+    margin: auto;
+    width: 80%;
+}

@@ -1,0 +1,10 @@
+.YourStocks td{
+    font-family: sans-serif;
+    font-size: 1.5em;
+    width: 100px;
+    text-align: center;
+    border-bottom: black 1px solid;
+}
+.YourStocks > td {
+    height: 2em;
+}

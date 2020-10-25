@@ -1,0 +1,18 @@
+.purchase{
+    width: 300px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+}
+.chevron{
+    height: 50px;
+    width: 50px;
+}
+
+.purchaseTitle{
+    margin: 0;
+    padding: 0;
+}
+.shareInput{
+    width: 50px;
+}

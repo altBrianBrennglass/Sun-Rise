@@ -1,0 +1,4 @@
+GET https://api.alpaca.markets/v1/bars/day?symbols=Appl HTTP/1.1
+
+APCA-API-KEY-ID:AK77FUOENUH0GO1LQLHA
+APCA-API-SECRET-KEY:IMBKed5TqGLvToGpQl9YDCftZqpcrhUgfWVevVhy

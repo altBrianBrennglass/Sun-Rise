@@ -1,0 +1,25 @@
+.Card{
+    font-family: sans-serif;
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px black;
+    display: flex;
+    padding: 5px 10px 10px 5px;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.Card > h1, .Card > h2, .bottomCard > h3{
+    padding: 0;
+    margin: 0;
+}
+.exchanges{
+    font-size: 1em;
+}
+.exchangePrice{
+    text-align: center;
+}
+.bottomCard{
+    display: flex;
+    justify-content: space-between;
+}

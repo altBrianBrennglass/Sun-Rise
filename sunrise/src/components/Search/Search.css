@@ -1,0 +1,54 @@
+.Search{
+    padding-top: 100px;
+
+    margin: auto;
+    width: 80%;
+}
+
+.input{
+    border: 1px solid rgba(100, 223, 172, .2);
+    width: 500px;
+    padding: 10px;
+    border-radius: 10px;
+    height: 50px;
+    font-size: 2em;
+}
+.stock-symbol{
+    width: 200px;
+    padding: 10px;
+    height: 30px;
+    display: flex;
+    justify-content: 'flex-start';
+}
+.stockSearch{
+    display: flex;
+    justify-content: 'space-around';
+    width: 100%;
+    margin-bottom: 10px;
+}
+.borderBottomNew{
+    border-bottom-color: black;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+}
+.searchBox{
+    
+}
+
+.companyTitle{
+    font-family: sans-serif;
+}
+.stock_data{
+    text-align: start;
+    margin-left: 10px;
+    width: 300px;
+    margin-left: 200px;
+}
+.searchAndStuff{
+    display: flex;
+    justify-content: flex-start;
+    
+}
+.td{
+    width: 200px;
+}
